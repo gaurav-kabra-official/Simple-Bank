@@ -1,5 +1,5 @@
 # Simple-Bank
- Text-based interactive banking opertaions using Java concepts such as Classes, Inheritance, Exception Handling and Input-Output
+ Text-based interactive banking operations using Java concepts such as Packages, Classes, Inheritance, Exception Handling and Input-Output.
 # How to run
 Open powershell.<br>
 Set pwd to where all java files are kept (src/com/gauravkabra)<br>
